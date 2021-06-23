@@ -1,0 +1,74 @@
+ID	Gene.symbol	Gene.title	log2(fold change)	-log10(Pvalue)
+245253_at	HPL1	hydroperoxide lyase 1	-2.077	4.296
+245628_at	PAP1	transcription factor MYB75	-3.123	4.022
+245688_at	AGP31	arabinogalactan protein 31	-2.344	3.797
+246195_at	UBC17	putative ubiquitin-conjugating enzyme E2 17	2.133	4.384
+248427_at	SBT1.3	subtilase 1.3	-1.871	4.212
+248895_at	FLS2	LRR receptor-like serine/threonine-protein kinase FLS2	1.779	4.19
+248921_at	AT5G45950	GDSL esterase/lipase	-1.674	4.085
+249174_at	COR27	cold regulated protein 27	1.885	4.225
+249378_at	AT5G40450	hypothetical protein	2.16	4.498
+249774_at	SQP1	Squalene monooxygenase 5	-1.59	3.951
+249983_at	AT5G18470	curculin-like (mannose-binding) lectin family protein	2.584	5.095
+250083_at	GSTF12	glutathione S-transferase phi 12	-2.634	4.207
+250207_at	TT4	chalcone synthase	-1.806	3.927
+250558_at	TT7	Flavonoid 3'-monooxygenase	-2.129	4.582
+250794_at	AT5G05270	Chalcone-flavanone isomerase family protein	-1.75	4.111
+250891_at	KCS19	3-ketoacyl-CoA synthase 19	-1.951	3.902
+251065_at	AT5G01870	pathogenesis-related lipid transfer protein	-2.279	4.839
+251232_at	AT3G62780	calcium-dependent lipid-binding domain-containing protein	1.747	3.959
+251248_at	PGP21	ABC transporter B family member 21	2.786	3.919
+251684_at	AT3G56410	hypothetical protein	1.54	3.922
+251858_at	PIP2;5	putative aquaporin PIP2-5	-1.449	3.8
+251884_at	AT3G54150	S-adenosyl-L-methionine-dependent methyltransferase-like protein	2.385	4.271
+252123_at	F3H	flavanone 3-hydroxylase	-2.425	4.767
+252170_at	HR4	RPW8-like protein 4	2.007	4.537
+252911_at	CYP96A12	cytochrome P450, family 96, subfamily A, polypeptide 12	-2.27	3.817
+253046_at	CYP81D8	cytochrome P450, family 81, subfamily D, polypeptide 8	2.422	4.986
+253181_at	LHT7	LYS/HIS transporter 7	2.929	4.178
+253736_at	AT4G28780	GDSL esterase/lipase	-1.623	3.932
+253754_at	AT4G29020	glycine-rich protein	-1.875	4.129
+253779_at	HAE	receptor-like protein kinase 5	1.953	3.977
+254241_at	CRK11	cysteine-rich receptor-like protein kinase 11	1.77	3.908
+254283_s_at	LDOX///AT4G22870	leucoanthocyanidin dioxygenase///leucoanthocyanidin dioxygenase-like protein	-1.855	4.314
+254318_at	AT4G22530	S-adenosyl-L-methionine-dependent methyltransferase domain-containing protein	1.605	3.804
+254564_at	NCED4	nine-cis-epoxycarotenoid dioxygenase 4	-1.768	3.948
+254660_at	AT4G18250	putative receptor serine/threonine kinase	1.903	4.304
+254869_at	AT4G11890	receptor-like cytosolic kinase ARCK1	1.859	4.024
+255564_s_at	RGXT1///RGXT2	rhamnogalacturonan xylosyltransferase 1///rhamnogalacturonan xylosyltransferase 2	2.668	4.047
+255595_at	AT4G01700	Chitinase family protein	1.515	3.904
+255622_at	GT72B1	UDP-glycosyltransferase 72B1	-1.985	4.207
+256170_at	AT1G51790	leucine-rich repeat protein kinase-like protein	1.466	3.865
+256940_at	QQS	qua-quine starch	-2.18	4.675
+257206_at	AT3G16530	legume lectin-like protein	2.864	4.58
+257294_at	AT3G15570	phototropic-responsive NPH3 family protein	-1.803	4.308
+257623_at	CYP71B23	cytochrome P450 71B23	1.776	4.35
+258181_at	AT3G21670	nitrate transporter 1.3	-1.833	4.371
+258217_at	CPuORF30///XPL1	conserved peptide upstream open reading frame 30///phosphoethanolamine N-methyltransferase 1	-2.235	4.081
+258589_at	LTL1	Li-tolerant lipase 1	-2.2	4.107
+258675_at	LTP6	lipid-transfer protein 6	-4.024	4.507
+258851_at	GSTF11	glutathione S-transferase F11	-2.627	3.938
+259009_at	PYK10	beta-glucosidase 23	-3.045	4.291
+259244_at	COL9	zinc finger protein CONSTANS-LIKE 9	1.756	4.299
+259841_at	AT1G52200	PLAC8 family protein	3.528	4.163
+260239_at	AT1G74360	putative LRR receptor-like serine/threonine-protein kinase	1.661	3.831
+260522_x_at	AT2G41730	hypothetical protein	2.219	3.797
+260831_at	AT1G06830	monothiol glutaredoxin-S11	1.578	4.179
+261027_at	CNGC10	cyclic nucleotide gated channel 10	1.763	4.245
+261450_s_at	AT1G21120///AT1G21110	O-methyltransferase family protein///O-methyltransferase family protein	1.95	4.292
+261713_at	MYC2	transcription factor MYC2	-1.577	4.078
+261719_at	AT1G18390	probable serine/threonine-protein kinase	2.117	4.452
+261768_at	GA3OX1	gibberellin 3-beta-dioxygenase 1	-2.062	4.135
+261834_at	AT1G10640	pectin lyase-like protein	-1.375	3.807
+263034_at	MLP423	MLP-like protein 423	-1.929	3.968
+263829_at	AT2G40435	hypothetical protein	-1.567	4.137
+264057_at	RAP2.7	TARGET OF EARLY ACTIVATION TAGGED 1	-1.344	3.858
+264901_at	AST91	sulfate transporter 3.3	1.756	4.166
+265117_at	AT1G62500	bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	-1.821	4.003
+265539_at	AT2G15830	hypothetical protein	1.38	3.915
+265679_at	AT2G32240///AT2G32235	hypothetical protein///hypothetical protein	1.882	4.312
+265720_at	AT2G40110	Yippee family putative zinc-binding protein	1.513	3.954
+266150_s_at	RING///AT2G12290	SBP (S-ribonuclease binding protein) family protein///hypothetical protein	1.668	3.842
+266746_s_at	GSTF2///GSTF3	glutathione S-transferase F2///glutathione S-transferase F3	1.735	3.812
+267142_at	AMT2	ammonium transporter 2	1.629	4.054
+267289_at	AT2G23770	lysin motif receptor-like kinase	1.926	4.566
